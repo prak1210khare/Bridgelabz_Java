@@ -1,2 +1,4 @@
 # Bridgelabz_Java
-Compiling and executing java codes
+Java assignments and practice problems completed as part of the BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
+
+
