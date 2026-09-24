@@ -7,6 +7,17 @@ main: README and daily task updates
 develop: empty Java project skeleton
 feature/*: week-wise topic branches containing the solutions
 
+###Day 05 - 23 Sep 2026
+
+What I have done:
+
+Completes Java Arrays level 2.
+Started with Methods level 1.
+
+What I will do:
+
+Will Complete Methods level 2 and level 3.
+
 ###Day 04 - 22 Sep 2026
 
 What I have done:
