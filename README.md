@@ -7,6 +7,38 @@ main: README and daily task updates
 develop: empty Java project skeleton
 feature/*: week-wise topic branches containing the solutions
 
+###Date: 26/09/2026
+
+What I did: 
+
+Completed level 2 of java strings
+
+What I will do: 
+
+will complete level 3 of strings and understand in depth concepts of strings
+
+###Day 07 - 25 Sep 2026
+
+Date: 25 sept, 2026
+
+What I did today:
+
+Completed methods level 3 and strings level 1
+
+What I will do:
+
+Will complete level 2 and level 3 questions of strings
+
+###Day 06 - 24 Sep 2026
+
+What I have done:
+
+Completed level 2 of Java methods 
+
+What I will do:
+
+Will complete level 3 of Java methods
+
 ###Day 05 - 23 Sep 2026
 
 What I have done:
