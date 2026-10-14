@@ -7,6 +7,134 @@ main: README and daily task updates
 develop: empty Java project skeleton
 feature/*: week-wise topic branches containing the solutions
 
+###Date: 14th October 2026
+
+What I did today:
+
+Completed Circular linked lists
+
+What I will do
+
+Will work and learn more in depth concepts
+
+###Date: 13th October 2026
+
+What I did Today:
+
+Started Circular Linked lists
+
+What I will do:
+
+Will complete this task entirely
+
+###Date: 12th October 2026
+
+What I did Today:
+
+Completed till day 3 problems
+
+What I will do:
+
+Will complete tasks of Day 4
+
+###Date: 10th October 2026
+
+What I did Today:
+
+Started Doubly Linked Lists
+
+What I will do:
+
+Will complete and understand more concepts of it.
+
+###Date: 9th October 2026
+
+What I did Today:
+
+Completed till day 3 problems
+
+What I will do:
+
+Will complete tasks of Day 4
+
+###Date: 8/10/2026
+
+What I did:
+
+Completed the review today and started working on linked list task assigned 
+
+What I will do:
+
+Will learn more in depth concepts of linked list
+
+###Date: 7th October 2026
+
+What I did Today:
+
+Completed till day 3 problems
+
+What I will do:
+
+Will complete tasks of Day 4
+
+###Date: 6/10/2026
+
+What I did:
+
+Completed the review today and started working on linked list task assigned 
+
+What I will do: will learn more in depth concepts of linked list
+
+###Date:4 oct 2026
+
+What I have done
+
+Worked on pending tasks and learnt in depth concepts of OOPS
+
+What I will do
+
+Will continue to practice problems on OOPS
+
+###Date: 3 October 
+
+What I did: 
+
+Completed some questions of inheritance
+
+What I will do : 
+
+Will complete remaining problems of inheritance and the task given today
+
+###Date: 1st October 2026
+
+What I did Today:
+
+Completed till day 3 problems
+
+What I will do:
+
+Will complete tasks of Day 4
+
+###Date: 30 sept 2026
+
+What I did: 
+
+Completed level 1 and level 2 of Object oriented programming 
+
+What I will do:
+
+Will understand more in depth concepts about object oriented programming
+
+###Date: 28 sept 2026
+ 
+What I did: 
+
+Started doing extra problems on strings given today
+
+What I will do: 
+
+Solve remaining other extra questions
+
 ###Date: 26/09/2026
 
 What I did: 
